@@ -1,0 +1,229 @@
+body
+{
+  background-color: #DED4BB;
+}
+
+.titrePrincipal
+{
+  font-family: "Coolvetica crammed"; 
+  font-size : 166px;
+  font-weight: 500;
+  letter-spacing : 5.81px;
+  color : #000000;
+  position: absolute; top: 0px; left: 100px
+}
+
+@font-face {
+    font-family: "Coolvetica crammed";
+    src: url("coolvetica\ crammed\ rg.ttf") format("ttf") }
+
+    .rectanglehaut {
+        float: left;
+        width: 1000px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #F1B641;
+        border: 0px solid black;
+        border-radius: 20px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 20px; left: 80px
+    }
+
+    .box 
+
+    .souligne {
+        float: left;
+        width: 245px;
+        height: 0px;
+        shape-outside: circle(20px 50px 10px 0 round 50px);
+        background-color: #339999;
+        border: 0px solid black;
+        border-radius: 20px;
+        margin: 0px;
+        padding: 10px;
+        position: absolute; top: 310px; left: 170px
+    }
+
+    .rectanglevert {
+        float: left;
+        width: 515px;
+        height: 560px;
+        shape-outside: inset(20px 50px 10px 0 round 50px) margin-box;
+        background-color: #96A755;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 170px; left:550px
+        ;
+    }
+
+    .shape4 {
+        float: none;
+        width: 320px;
+        height: 50px;
+        shape-outside: circle(20px 50px 10px 0 round 50px);
+        background-color: #FBB7BA;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 10px;
+        position: absolute; top: 400px; left: 80px;
+        align-items: flex-start;
+        display: inline-block;
+    }
+
+    .shape5 {
+        float: left;
+        width: 320px;
+        height: 50px;
+        shape-outside: circle(20px 50px 10px 0 round 50px);
+        background-color: #FBB7BA;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 10px;
+        position: absolute; top: 500px; left: 80px
+    }
+
+    .shape6 {
+        float: left;
+        width: 320px;
+        height: 50px;
+        shape-outside: circle(20px 50px 10px 0 round 50px);
+        background-color: #FBB7BA;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 10px;
+        position: absolute; top: 600px; left: 80px
+    }
+
+    .shape7 {
+        float: left;
+        width: 320px;
+        height: 50px;
+        shape-outside: circle(20px 50px 10px 0 round 50px);
+        background-color: #FBB7BA;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 10px;
+        position: absolute; top: 700px; left: 80px
+    }
+
+    .shape8 {
+        float: left;
+        width: 320px;
+        height: 50px;
+        shape-outside: circle(20px 50px 10px 0 round 50px);
+        background-color: #FBB7BA;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 10px;
+        position: absolute; top: 800px; left: 80px
+    }
+
+    .shape9 {
+        float: left;
+        width: 320px;
+        height: 50px;
+        shape-outside: circle(20px 50px 10px 0 round 50px);
+        background-color: #FBB7BA;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 10px;
+        position: absolute; top: 900px; left: 80px
+    }
+
+    .shape10 {
+        float: left;
+        width: 320px;
+        height: 50px;
+        shape-outside: circle(20px 50px 10px 0 round 50px);
+        background-color: #FBB7BA;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 10px;
+        position: absolute; top: 1000px; left: 80px
+    }
+
+    .rectanglerouge {
+        float: left;
+        width: 220px;
+        height: 230px;
+        shape-outside: inset(20px 50px 10px 0 round 50px) margin-box;
+        background-color: #E62E2B;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 800px; left:550px;
+    }
+
+    .rectanglerose {
+        float: left;
+        width: 220px;
+        height: 230px;
+        shape-outside: inset(20px 50px 10px 0 round 50px) margin-box;
+        background-color: #FBB7BA;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 800px; left: 840px;
+    }
+
+    .rectanglebleu {
+        float: left;
+        width: 710px;
+        height: 250px;
+        shape-outside: circle(20px 50px 10px 0 round 50px);
+        background-color: #339999;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 10px;
+        position: absolute; top: 1100px; left: 80px
+    }
+
+    .rectanglejaune {
+        float: left;
+        width: 220px;
+        height: 230px;
+        shape-outside: inset(20px 50px 10px 0 round 50px) margin-box;
+        background-color: #F1B641;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 1100px; left: 850px;
+    }
+
+    .rectanglebeige {
+        float: left;
+        width: 1100px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #DED4BB;
+        border: 0px solid black;
+        border-radius: 20px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 1500px; left: 80px
+    }
+
+
+    .bouton {
+            font-family : "Coolvetica";
+            font-weight: 200;
+            font-size : 35px;
+            color : #000000;
+            text-align: middle;
+            text-decoration: none;
+            vertical-align: middle;                                                                       
+
+            
+        }

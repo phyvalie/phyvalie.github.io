@@ -1,0 +1,526 @@
+body
+{
+  background-color: #DED4BB;
+}
+
+.titrePrincipal
+{
+  font-family: "Coolvetica crammed"; 
+  font-size : 166px;
+  font-weight: 500;
+  letter-spacing : 5.81px;
+  color : #000000;
+  position: absolute; top: 30px; left: 500px
+}
+
+@font-face {
+    font-family: "Coolvetica crammed";
+    src: url("coolvetica\ crammed\ rg.ttf") format("ttf") }
+
+    .souligne {
+        float: left;
+        width: 900px;
+        height: 0px;
+        shape-outside: circle(20px 50px 10px 0 round 50px);
+        background-color: #339999;
+        border: 0px solid black;
+        border-radius: 20px;
+        margin: 0px;
+        padding: 10px;
+        position: absolute; top: 330px; left: 170px
+    }
+
+    .rectanglehaut {
+        float: left;
+        width: 1000px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #FBB7BA;
+        border: 0px solid black;
+        border-radius: 20px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 70px; left: 20px
+    }
+
+     .rectanglevert {
+        float: left;
+        width: 515px;
+        height: 600px;
+        shape-outside: inset(20px 50px 10px 0 round 50px) margin-box;
+        background-color: #96A755;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 400px; left:100px
+        ;
+    }
+
+
+    .box1 {
+        position: absolute; top: 300px;
+        margin:auto
+        
+    }
+    
+    .N1 {
+        float: left;
+        width: 350px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #FBB7BA;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 0px;
+        padding: 20px;
+        position: absolute; top: 410px; left: 90px
+    }
+    
+    .N2 {
+        float: left;
+        width: 350px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #FBB7BA;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 00px;
+        padding: 20px;
+        position: absolute; top: 110px; left: 90px
+    }
+
+    .N3 {
+        float: left;
+        width: 350px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #FBB7BA;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 00px;
+        padding: 20px;
+        position: absolute; top: 210px; left: 90px
+    }
+
+    .N4 {
+        float: left;
+        width: 350px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #FBB7BA;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 00px;
+        padding: 20px;
+        position: absolute; top: 310px; left: 90px
+    }
+
+    .IMAGE1 {
+        float: left;
+        width: 370px;
+        height: 530px;
+        shape-outside: inset(20px 50px 10px 0 round 50px) margin-box;
+        background-color: #96A755;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 830px; left: 70px
+        ;
+    }
+
+    .N5 {
+        float: left;
+        width: 500px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #F1B641;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 530px; left: 550px
+    }
+
+    .N6 {
+        float: left;
+        width: 500px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #F1B641;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 630px; left: 550px
+    }
+
+    .N7 {
+        float: left;
+        width: 500px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #F1B641;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 730px; left: 550px
+    }
+
+    .N8 {
+        float: left;
+        width: 500px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #F1B641;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 830px; left: 550px
+    }
+
+    .N9 {
+        float: left;
+        width: 500px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #F1B641;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 930px; left: 550px
+    }
+
+    .N10 {
+        float: left;
+        width: 500px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #F1B641;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 1030px; left: 550px
+    }
+
+    .N11 {
+        float: left;
+        width: 980px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #FBB7BA;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 1150px; left: 70px
+    }
+    
+    .N12 {
+        float: left;
+        width: 980px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #FBB7BA;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 1250px; left: 70px
+    }
+
+    .N13 {
+        float: left;
+        width: 980px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #FBB7BA;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 1350px; left: 70px
+    }
+
+    .N14 {
+        float: left;
+        width: 980px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #FBB7BA;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 1450px; left: 70px
+    }
+
+    .N15 {
+        float: left;
+        width: 980px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #FBB7BA;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 1550px; left: 70px
+    }
+
+    .N16 {
+        float: left;
+        width: 550px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #F1B641;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 1700px; left: 80px
+    }
+
+    .N17 {
+        float: left;
+        width: 550px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #F1B641;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 1800px; left: 80px
+    }
+
+    .N18 {
+        float: left;
+        width: 550px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #F1B641;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 1900px; left: 80px
+    }
+
+    .N19 {
+        float: left;
+        width: 550px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #F1B641;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 2000px; left: 80px
+    }
+
+    .N20 {
+        float: left;
+        width: 550px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #F1B641;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 2100px; left: 80px
+    }
+
+    .IMAGE2 {
+        float: left;
+        width: 340px;
+        height: 440px;
+        shape-outside: inset(20px 50px 10px 0 round 50px) margin-box;
+        background-color: #96A755;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 2000px; left: 710px
+        ;
+    }
+
+    .IMAGE3 {
+        float: left;
+        width: 950px;
+        height: 350px;
+        shape-outside: inset(20px 50px 10px 0 round 50px) margin-box;
+        background-color: #96A755;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 2550px; left: 100px
+        ;
+    }
+
+    .N21 {
+        float: left;
+        width: 570px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #80A0A5;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 2700px; left: 470px
+    }
+    
+    .N22 {
+        float: left;
+        width: 570px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #80A0A5;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 2800px; left: 470px
+    }
+
+    .N23 {
+        float: left;
+        width: 570px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #80A0A5;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 2900px; left: 470px
+    }
+
+    .N25 {
+        float: left;
+        width: 570px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #80A0A5;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 3000px; left: 470px
+    }
+
+    .IMAGE4 {
+        float: left;
+        width: 300px;
+        height: 340px;
+        shape-outside: inset(20px 50px 10px 0 round 50px) margin-box;
+        background-color: #96A755;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 3000px; left: 100px
+        ;
+    }
+
+    .N26 {
+        float: left;
+        width: 980px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #FBB7BA;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 3150px; left: 70px
+    }
+
+    .N27 {
+        float: left;
+        width: 980px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #FBB7BA;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 3250px; left: 80px
+    }
+
+    .N28 {
+        float: left;
+        width: 980px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #FBB7BA;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 3350px; left: 80px
+    }
+
+    .N29 {
+        float: left;
+        width: 980px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #FBB7BA;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 3450px; left: 80px
+    }
+
+    .N30 {
+        float: left;
+        width: 980px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #FBB7BA;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 3550px; left: 80px
+    }
+
+    .N31 {
+        float: left;
+        width: 980px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #FBB7BA;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 3650px; left: 80px
+    }
+    
+    .N32 {
+        float: left;
+        width: 980px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #FBB7BA;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 3750px; left: 80px
+    }
+
+    .N33 {
+        float: left;
+        width: 980px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #FBB7BA;
+        border: 0px solid black;
+        border-radius: 40px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 3850px; left: 80px
+    }
+
+    .rectanglebeige {
+        float: left;
+        width: 1100px;
+        shape-outside: inset(20px 50px 10px 0 round 50px);
+        background-color: #DED4BB;
+        border: 0px solid black;
+        border-radius: 20px;
+        margin: 20px;
+        padding: 20px;
+        position: absolute; top: 4300px; left: 80px
+    }
+
+    .N {
+        font-family : "Coolvetica";
+        font-weight: 200;
+        font-size : 30px;
+        color : #000000;
+        text-align: middle;
+        text-decoration: none;
+        vertical-align: middle;                                                                       
+    }
